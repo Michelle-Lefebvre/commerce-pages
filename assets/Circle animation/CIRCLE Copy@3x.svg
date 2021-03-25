@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="219px" height="46px" viewBox="0 0 219 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>CIRCLE Copy@3x</title>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="56.2714854%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#12D498" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#0FD497" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <ellipse id="path-3" cx="111.549219" cy="21.6332534" rx="106.5" ry="21.6160338"></ellipse>
+    </defs>
+    <g id="DESIGN" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="CIRCLE-Copy" transform="translate(0.000000, 1.000000)">
+            <g id="Oval">
+                <use stroke="url(#linearGradient-1)" stroke-width="0.5" xlink:href="#path-3"></use>
+                <ellipse stroke="url(#linearGradient-2)" stroke-width="0.921985816" cx="111.549219" cy="21.6332534" rx="106.960993" ry="22.0770267"></ellipse>
+            </g>
+            <ellipse id="Oval" fill="#0FD497" cx="5.04921913" cy="19.793591" rx="5" ry="5.05907173"></ellipse>
+        </g>
+    </g>
+</svg>

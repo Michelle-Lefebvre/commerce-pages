@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="35px" viewBox="0 0 36 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 3@3x</title>
+    <g id="DESIGN" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="7_Selection" transform="translate(-335.000000, -108.000000)">
+            <g id="Group-14" transform="translate(19.000000, 108.000000)">
+                <g id="Group-13" transform="translate(1.000000, 0.000000)">
+                    <g id="Group-3" transform="translate(315.088757, 0.000000)">
+                        <circle id="Oval" fill="#0DFCB2" cx="17.4556213" cy="17.4556213" r="17.4556213"></circle>
+                        <g id="Group-2" transform="translate(17.361774, 18.009944) rotate(45.000000) translate(-17.361774, -18.009944) translate(6.861774, 7.509944)" stroke="#000000" stroke-linecap="round" stroke-width="2.07100592">
+                            <line x1="10.0416746" y1="0.0938474264" x2="10.0416746" y2="19.9895018" id="Line-6"></line>
+                            <line x1="10.0416746" y1="-1.44164776e-11" x2="10.0416746" y2="20.0833492" id="Line-6" transform="translate(10.041675, 10.041675) rotate(-90.000000) translate(-10.041675, -10.041675) "></line>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

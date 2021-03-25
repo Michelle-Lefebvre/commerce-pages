@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="16px" viewBox="0 0 17 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>star_active@3x</title>
+    <g id="DESIGN" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="14_Buy-Now" transform="translate(-105.000000, -441.000000)">
+            <g id="Group-2" transform="translate(105.000000, 441.000000)">
+                <g id="star_active" transform="translate(-0.000000, -0.000000)">
+                    <g transform="translate(-0.000000, -0.000000)">
+                        <rect id="bg" x="0" y="0" width="16.5714286" height="16.5714286"></rect>
+                        <polygon fill="#0DFCB2" points="8.28571429 12.8988087 13.4062857 15.8809524 12.0474286 10.2604762 16.5714286 6.47884512 10.614 5.99115488 8.28571429 0.69047619 5.95742857 5.99115488 0 6.47884512 4.524 10.2604762 3.16514286 15.8809524"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
