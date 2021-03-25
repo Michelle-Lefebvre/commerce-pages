@@ -20,16 +20,20 @@ a:hover {
 
 
 .container > .button {
-    display: inline-block;
+    /* display: inline-block; */
     background-color: #0DFCB2;
     width: 95%;
-    margin: 1.5rem 0 1.5rem;
-    padding: 8px;
+    height: 3rem;
+    margin: 1.5rem 0;
+    padding: 0 0 8px 0;
     text-align: center;
+    align-content: top;
     font-size: 1rem;
+    font-weight: 900;
     line-height: 32px;
     border-radius: 32px;
     cursor: pointer;
+    line-height: normal;
     
     -webkit-touch-callout: none;
     -webkit-user-select: none;
@@ -63,8 +67,9 @@ a:hover {
     margin-left: 4rem;
 
 }
-
-
+a > img {
+    transform: rotate(180deg);
+}
 .container > .text {
     font-weight: 300;
     letter-spacing: 1px;
