@@ -1,8 +1,9 @@
 .container {
     position: absolute;
     padding: 1rem 2rem;
-    margin: 0;
-    min-width: 370px;
+    margin: 2rem auto;
+    border-radius: 0.5rem;
+    min-width: 390px;
     max-height: 100vh;
     background-color: #fff;
     color: #000;
